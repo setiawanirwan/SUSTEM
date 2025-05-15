@@ -9,3 +9,5 @@ The repository contains the following:
 
 # Reference:
 If you found this repository helpful, please consider citing the following:
+https://dl.acm.org/doi/10.1145/3656342
+SUSTEM: An Improved Rule-based Sundanese Stemmer
